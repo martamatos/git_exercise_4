@@ -1,2 +1,2 @@
 Hello world
-Learning code
+Learning code javascript
